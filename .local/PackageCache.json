@@ -179,7 +179,7 @@
     {
       "Package": {
         "Id": "UiPath.System.Activities",
-        "Version": "24.10.3"
+        "Version": "24.10.4"
       },
       "Assemblies": [
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\csvhelper\\16.0.0\\lib/netstandard2.1/CsvHelper.dll",
@@ -253,15 +253,15 @@
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.codedworkflows\\24.10.0\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.1.3\\lib/netstandard2.0/UiPath.OpenTelemetry.Contracts.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.platform\\24.10.3\\lib/net6.0-windows7.0/UiPath.Platform.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities\\24.10.3\\lib/net6.0-windows7.0/UiPath.System.Activities.Design.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities\\24.10.3\\lib/net6.0-windows7.0/UiPath.System.Activities.ViewModels.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities.runtime\\24.10.3\\lib/net6.0-windows7.0/UiPath.System.Activities.Package.Runtime.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.3\\lib/net6.0-windows7.0/UiPath.OrchestratorClient.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.3\\lib/net6.0-windows7.0/UiPath.System.Activities.Api.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.3\\lib/net6.0-windows7.0/UiPath.System.Activities.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities\\24.10.4\\lib/net6.0-windows7.0/UiPath.System.Activities.Design.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities\\24.10.4\\lib/net6.0-windows7.0/UiPath.System.Activities.ViewModels.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities.runtime\\24.10.4\\lib/net6.0-windows7.0/UiPath.System.Activities.Package.Runtime.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.4\\lib/net6.0-windows7.0/UiPath.OrchestratorClient.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.4\\lib/net6.0-windows7.0/UiPath.System.Activities.Api.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.4\\lib/net6.0-windows7.0/UiPath.System.Activities.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.telemetry.client\\2.1.3\\lib/netstandard2.0/TelemetryClient.dll"
       ],
-      "Path": "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities\\24.10.3"
+      "Path": "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities\\24.10.4"
     },
     {
       "Package": {
@@ -343,9 +343,9 @@
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.uiautomation.activities.runtime.design\\24.10.0\\lib/net6.0-windows7.0/UiPath.UIAutomation.Activities.Runtime.Design.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.vision\\3.14.0-preview\\lib/net6.0-windows7.0/UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.vision\\3.14.0-preview\\lib/net6.0-windows7.0/UiPath.Vision.Core.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.vision\\3.14.0-preview\\lib/net6.0-windows7.0/UiPath.Vision.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.vision\\3.14.0-preview\\lib/net6.0-windows7.0/UiPath.Vision.GoogleCloud.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.vision\\3.14.0-preview\\lib/net6.0-windows7.0/UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.vision\\3.14.0-preview\\lib/net6.0-windows7.0/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.vision\\3.14.0-preview\\lib/net6.0-windows7.0/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.0"
     },
@@ -382,18 +382,18 @@
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\tinycsvparser\\2.5.2\\lib/netstandard2.1/TinyCsvParser.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib/net6.0-windows7.0/CefSharp.BrowserSubprocess.Core.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib/net6.0-windows7.0/CefSharp.BrowserSubprocess.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib/net6.0-windows7.0/CefSharp.Core.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib/net6.0-windows7.0/CefSharp.Core.Runtime.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib/net6.0-windows7.0/CefSharp.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib/net6.0-windows7.0/CefSharp.Core.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib/net6.0-windows7.0/CefSharp.Wpf.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib/net6.0-windows7.0/CefSharp.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib/net6.0-windows7.0/Ijwhost.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib/net6.0-windows7.0/UiPath.CefSharpBundle.NetCore.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib/net6.0-windows7.0/chrome_elf.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib/net6.0-windows7.0/d3dcompiler_47.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib/net6.0-windows7.0/Ijwhost.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib/net6.0-windows7.0/libcef.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib/net6.0-windows7.0/libEGL.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib/net6.0-windows7.0/libGLESv2.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib/net6.0-windows7.0/libcef.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib/net6.0-windows7.0/msvcp140.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib/net6.0-windows7.0/UiPath.CefSharpBundle.NetCore.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib/net6.0-windows7.0/vcruntime140.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib/net6.0-windows7.0/vcruntime140_1.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib/net6.0-windows7.0/vk_swiftshader.dll",
@@ -423,12 +423,12 @@
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.DocumentUnderstanding.Persistence.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.IntelligentOCR.Activities.Design.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.IntelligentOCR.Activities.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.IntelligentOCR.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.IntelligentOCR.Legacy.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.IntelligentOCR.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.AccessProvider.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.BusinessRules.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.ClassificationStation.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.ClassificationStation.Host.Local.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.ClassificationStation.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.Data.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.DocumentClassification.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.Host.Local.Infrastructure.dll",
@@ -438,17 +438,17 @@
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.OutOfProcessUi.Common.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.OutOfProcessUi.Host.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.PDF.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.PositionBasedExtraction.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.PositionBasedExtraction.TemplateManager.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.PositionBasedExtraction.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.TableProcessing.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.TaxonomyManager.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.TaxonomyManager.Host.Local.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.TaxonomyManager.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.Telemetry.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.Utils.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.ValidationStation.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.ValidationStation.Host.Local.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.ValidationStation.Integration.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.ValidationStation.ValueParsing.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.ValidationStation.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib/net6.0-windows7.0/UiPath.SmartData.WPF.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.ocr.activities\\3.21.0-preview\\lib/net6.0-windows7.0/UiPath.OCR.Activities.Design.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.ocr.activities\\3.21.0-preview\\lib/net6.0-windows7.0/UiPath.OCR.Activities.dll",
@@ -459,9 +459,9 @@
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.telemetry.client\\2.1.3\\lib/netstandard2.0/TelemetryClient.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.vision\\3.14.0-preview\\lib/net6.0-windows7.0/UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.vision\\3.14.0-preview\\lib/net6.0-windows7.0/UiPath.Vision.Core.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.vision\\3.14.0-preview\\lib/net6.0-windows7.0/UiPath.Vision.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.vision\\3.14.0-preview\\lib/net6.0-windows7.0/UiPath.Vision.GoogleCloud.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.vision\\3.14.0-preview\\lib/net6.0-windows7.0/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.vision\\3.14.0-preview\\lib/net6.0-windows7.0/UiPath.Vision.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.wordstonumbers\\1.0.0\\lib/netstandard2.0/Numsense.dll"
       ],
       "Path": "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview"
@@ -5135,11 +5135,11 @@
     },
     "UiPath.System.Activities": {
       "Id": "UiPath.System.Activities",
-      "Version": "24.10.3",
+      "Version": "24.10.4",
       "Dependencies": [
         {
           "Item1": "UiPath.System.Activities.Runtime",
-          "Item2": "[24.10.3, )"
+          "Item2": "[24.10.4, )"
         },
         {
           "Item1": "CsvHelper",
@@ -5209,17 +5209,17 @@
     },
     "UiPath.System.Activities.Runtime": {
       "Id": "UiPath.System.Activities.Runtime",
-      "Version": "24.10.3",
+      "Version": "24.10.4",
       "Dependencies": [
         {
           "Item1": "UiPath.System.Activities.Runtime.Windows",
-          "Item2": "[24.10.3, )"
+          "Item2": "[24.10.4, )"
         }
       ]
     },
     "UiPath.System.Activities.Runtime.Windows": {
       "Id": "UiPath.System.Activities.Runtime.Windows",
-      "Version": "24.10.3",
+      "Version": "24.10.4",
       "Dependencies": [
         {
           "Item1": "CsvHelper",
@@ -8057,10 +8057,10 @@
         "Version": "1.10.0"
       },
       "Assemblies": [
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib\\net6.0-windows7.0\\CefSharp.Core.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib\\net6.0-windows7.0\\CefSharp.Core.Runtime.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib\\net6.0-windows7.0\\CefSharp.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib\\net6.0-windows7.0\\CefSharp.Wpf.dll"
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib\\net6.0-windows7.0\\CefSharp.Core.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib\\net6.0-windows7.0\\CefSharp.Wpf.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0\\lib\\net6.0-windows7.0\\CefSharp.dll"
       ],
       "Path": "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.cefsharpbundle.netcore\\1.10.0"
     },
@@ -8196,12 +8196,12 @@
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.DocumentUnderstanding.Persistence.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.IntelligentOCR.Activities.Design.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.IntelligentOCR.Activities.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.IntelligentOCR.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.IntelligentOCR.Legacy.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.IntelligentOCR.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.AccessProvider.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.BusinessRules.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.ClassificationStation.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.ClassificationStation.Host.Local.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.ClassificationStation.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.Data.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.DocumentClassification.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.Host.Local.Infrastructure.dll",
@@ -8212,18 +8212,18 @@
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.OutOfProcessUi.Host.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.OutOfProcessUi.Host.exe",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.PDF.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.PositionBasedExtraction.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.PositionBasedExtraction.TemplateManager.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.PositionBasedExtraction.TemplateManager.exe",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.PositionBasedExtraction.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.TableProcessing.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.TaxonomyManager.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.TaxonomyManager.Host.Local.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.TaxonomyManager.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.Telemetry.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.Utils.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.ValidationStation.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.ValidationStation.Host.Local.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.ValidationStation.Integration.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.ValidationStation.ValueParsing.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.ValidationStation.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview\\lib\\net6.0-windows7.0\\UiPath.SmartData.WPF.dll"
       ],
       "Path": "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.intelligentocr.activities\\6.21.1-preview"
@@ -8292,35 +8292,35 @@
     {
       "Package": {
         "Id": "UiPath.System.Activities",
-        "Version": "24.10.3"
+        "Version": "24.10.4"
       },
       "Assemblies": [
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities\\24.10.3\\lib\\net6.0-windows7.0\\UiPath.System.Activities.Design.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities\\24.10.3\\lib\\net6.0-windows7.0\\UiPath.System.Activities.ViewModels.dll"
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities\\24.10.4\\lib\\net6.0-windows7.0\\UiPath.System.Activities.Design.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities\\24.10.4\\lib\\net6.0-windows7.0\\UiPath.System.Activities.ViewModels.dll"
       ],
-      "Path": "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities\\24.10.3"
+      "Path": "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities\\24.10.4"
     },
     {
       "Package": {
         "Id": "UiPath.System.Activities.Runtime",
-        "Version": "24.10.3"
+        "Version": "24.10.4"
       },
       "Assemblies": [
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities.runtime\\24.10.3\\lib\\net6.0-windows7.0\\UiPath.System.Activities.Package.Runtime.dll"
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities.runtime\\24.10.4\\lib\\net6.0-windows7.0\\UiPath.System.Activities.Package.Runtime.dll"
       ],
-      "Path": "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities.runtime\\24.10.3"
+      "Path": "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities.runtime\\24.10.4"
     },
     {
       "Package": {
         "Id": "UiPath.System.Activities.Runtime.Windows",
-        "Version": "24.10.3"
+        "Version": "24.10.4"
       },
       "Assemblies": [
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.3\\lib\\net6.0-windows7.0\\UiPath.OrchestratorClient.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.3\\lib\\net6.0-windows7.0\\UiPath.System.Activities.Api.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.3\\lib\\net6.0-windows7.0\\UiPath.System.Activities.dll"
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.4\\lib\\net6.0-windows7.0\\UiPath.OrchestratorClient.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.4\\lib\\net6.0-windows7.0\\UiPath.System.Activities.Api.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.4\\lib\\net6.0-windows7.0\\UiPath.System.Activities.dll"
       ],
-      "Path": "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.3"
+      "Path": "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.4"
     },
     {
       "Package": {
@@ -8396,9 +8396,9 @@
       "Assemblies": [
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.vision\\3.14.0-preview\\lib\\net6.0-windows7.0\\UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.vision\\3.14.0-preview\\lib\\net6.0-windows7.0\\UiPath.Vision.Core.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.vision\\3.14.0-preview\\lib\\net6.0-windows7.0\\UiPath.Vision.dll",
         "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.vision\\3.14.0-preview\\lib\\net6.0-windows7.0\\UiPath.Vision.GoogleCloud.dll",
-        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.vision\\3.14.0-preview\\lib\\net6.0-windows7.0\\UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.vision\\3.14.0-preview\\lib\\net6.0-windows7.0\\UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.vision\\3.14.0-preview\\lib\\net6.0-windows7.0\\UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.vision\\3.14.0-preview"
     },

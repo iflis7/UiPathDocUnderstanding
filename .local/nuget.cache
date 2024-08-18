@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "S5RCpvAEGGAG8bw2ipHuUjfk8WWp8zsR2DDdywmcZ8KtBhXxr6lgd8jggiIAmlAOcylzy2Ept77Y+vNAfUwDJA==",
+  "dgSpecHash": "6LKO3gpONBBEqdOJ7s2auO1//6cT+3xDwT9jZdt14/nRJGM/7A2JCMxJPQmwXZcYDrtQc4jIbUF5rJiuAXDolg==",
   "success": true,
   "projectFilePath": "C:\\Users\\HAFID.saadi\\OneDrive - MNP\\Bureau\\UiPath\\Practice\\DocUnderstading\\.local\\",
   "expectedPackageFiles": [
@@ -291,9 +291,9 @@
     "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.ocr.contracts\\2.16.0\\uipath.ocr.contracts.2.16.0.nupkg.sha512",
     "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.1.3\\uipath.opentelemetry.contracts.2.1.3.nupkg.sha512",
     "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.platform\\24.10.3\\uipath.platform.24.10.3.nupkg.sha512",
-    "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities\\24.10.3\\uipath.system.activities.24.10.3.nupkg.sha512",
-    "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities.runtime\\24.10.3\\uipath.system.activities.runtime.24.10.3.nupkg.sha512",
-    "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.3\\uipath.system.activities.runtime.windows.24.10.3.nupkg.sha512",
+    "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities\\24.10.4\\uipath.system.activities.24.10.4.nupkg.sha512",
+    "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities.runtime\\24.10.4\\uipath.system.activities.runtime.24.10.4.nupkg.sha512",
+    "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.system.activities.runtime.windows\\24.10.4\\uipath.system.activities.runtime.windows.24.10.4.nupkg.sha512",
     "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.telemetry.client\\2.1.3\\uipath.telemetry.client.2.1.3.nupkg.sha512",
     "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.testing.activities\\24.10.0\\uipath.testing.activities.24.10.0.nupkg.sha512",
     "C:\\Users\\HAFID.saadi\\.nuget\\packages\\uipath.uiautomation.activities\\24.10.0\\uipath.uiautomation.activities.24.10.0.nupkg.sha512",
